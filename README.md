@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Muhammad Jahanzeb Memon</h1>
 <h3 align="center">A passionate Devops Engineer from Pakistan</h3>
 
+<img align="right" alt="coding" width"200" src="![image](https://github.com/mjhanzaibmemon/mjhanzaibmemon/assets/53127947/647b38f2-6e30-486a-a665-33461b226d22)
+">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mjhanzaibmemon&label=Profile%20views&color=0e75b6&style=flat" alt="mjhanzaibmemon" /> </p>
 
 - 👯 I’m looking to collaborate on **DevOps Engineer seeking collaboration opportunities. Expert in automation, CI/CD, and cloud. Let's innovate together for seamless and efficient IT operations! 🚀 #DevOps"**
