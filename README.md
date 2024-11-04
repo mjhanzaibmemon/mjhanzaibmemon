@@ -1,93 +1,61 @@
 <h1 align="center">
-  Hello, I'm Muhammad Jahanzeb Memon!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
+  Hi there, I'm Muhammad Jahanzeb Memon!
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="35px">
 </h1>
- 
-<p align="center" ><img 
- src="https://raw.githubusercontent.com/shaheer-haider/shaheer-haider/main/developer.gif" width="40%"/></p>
 
-
-
-<summary><h2><img src="https://slackmojis.com/emojis/10512-amongus/image/1643515022/amongus.png" align="center"
-                width="28" /> I'm a DevOps Engineer</h2></summary>
-
-              
-- 🌍 Contributing in Opensource
-- 🥷 Web, Mobile, Desktop Apps and Cloud Enginnering
-- ☁️ I specialize in Web-Development and Cloud Based applications
-- 🖤 I love to over engineer the technology stacks and cloud architectures
-- 🔭 I'm modernizing architecture of existing applications.
-- 🌱 I’m currently learning Kubernetes.
-- 💬 Ask me about, Software Development & Cloud or Any tech-related stuff.
-
-
-<summary><h2><img src="https://slackmojis.com/emojis/45891-work/image/1643509229/work.png" align="center"
-                width="28" /> My Work</h2></summary>
-<div align="center"> 
-  <img style="margin: 10px" src="https://raw.githubusercontent.com/shaheer-haider/shaheer-haider/main/devops-logo-removebg-preview.png" alt="DevOps" height="200" />
-</div>
-<br />
-<br />
-
-<summary><h2><img src="https://slackmojis.com/emojis/37671-toolbox/image/1675027607/toolbox.gif" align="center"
-                width="28" /> My Tools</h2></summary>
-
-<div align="center"> 
-
-<div style="display: flex; align-items: center;">
- <br />
- <br />
- <br />
- <img style="margin: 30px" src="https://slackmojis.com/emojis/2988-aws/image/1643514326/aws.png" alt="AWS" height="75" />
- <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
- <img style="margin: 30px" src="https://slackmojis.com/emojis/9754-docker/image/1643514952/docker.png" alt="Docker | Docker Compose" height="75" />
- <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
-<img style="margin: 30px" src="https://slackmojis.com/emojis/9611-linux/image/1643514939/linux.png" alt="Linux" height="75" />  
-
- </div>
- <br />
- <br />
- <br />
- <br />
-
-<img style="margin: 10px" src="https://slackmojis.com/emojis/1541-django/image/1643514188/django.png" alt="Django" height="50" />
-  <span>&nbsp;&nbsp;&nbsp;</span>
-<img style="margin: 10px" src="https://slackmojis.com/emojis/32-python/image/1643514044/python.png" alt="Python" height="50" />  
-  <span>&nbsp;&nbsp;&nbsp;</span>
-<img style="margin: 10px" src="https://slackmojis.com/emojis/4425-nodejs/image/1643514460/nodejs.png" alt="Node Js" height="50" />  
-  <span>&nbsp;&nbsp;&nbsp;</span>
-<img style="margin: 10px" src="https://slackmojis.com/emojis/151-javascript/image/1643514058/javascript.png" alt="JavaScript" height="50" />  
-  <span>&nbsp;&nbsp;&nbsp;</span>
-<img style="margin: 10px" src="https://slackmojis.com/emojis/1537-vue/image/1643514187/vue.png" alt="Vue" height="50" />  
-  <span>&nbsp;&nbsp;&nbsp;</span>
-<img style="margin: 10px" src="https://slackmojis.com/emojis/1161-react/image/1643514155/react.png" alt="React" height="50" />  
-  <span>&nbsp;&nbsp;&nbsp;</span>
-<img style="margin: 10px" src="https://slackmojis.com/emojis/6097-nuxt/image/1643514606/nuxt.png" alt="Nuxt" height="50" />  
-  <span>&nbsp;&nbsp;&nbsp;</span>
-<img style="margin: 10px" src="https://slackmojis.com/emojis/4417-flutter/image/1643514460/flutter.png" alt="AWS" height="50" />  
-  <span>&nbsp;&nbsp;&nbsp;</span>
-<img style="margin-left: 10px;margin-right: 10px;" src="https://slackmojis.com/emojis/59358-gcp/image/1653455112/gcp.png" alt="Google Cloud Platform - GCP" height="50" />
-
-</div>  
-
-<br>
-<br>
-<br>
-
-<summary><h2><img src="https://slackmojis.com/emojis/19011-statistics/image/1675027483/statistics.gif" align="center"
-                width="28" /> My Github Stats</h2> </summary>
-
-<br>
-
-
-
-<summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center"
-                width="28" /> To connect with me</h2></summary>
-
-<p align = "center">
- 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jhanzaib-memon-9905a21a7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app/)
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MuhammadJahanzeb/MuhammadJahanzeb/main/coding.gif" width="50%" alt="Coding GIF"/>
 </p>
 
-Last Edited on: 28th jan 2024
+<summary><h2><img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="28"> About Me</h2></summary>
+
+- 🌍 Open-source contributor and DevOps enthusiast
+- 👨‍💻 Working on Web, Mobile, and Cloud Engineering
+- ☁️ Specializing in Cloud-Based Solutions and Modern Architectures
+- 💡 Love to create optimized and scalable tech stacks
+- 🔭 Modernizing application architectures
+- 🌱 Currently exploring Kubernetes and microservices
+- 💬 Reach out for discussions on software development and cloud engineering
+
+---
+
+<summary><h2><img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="28"> My Work</h2></summary>
+
+<p align="center">
+  <img src="https://github.com/MuhammadJahanzeb/MuhammadJahanzeb/raw/main/my_work.png" alt="My Work" height="200"/>
+</p>
+
+---
+
+<summary><h2><img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="28"> My Tools & Technologies</h2></summary>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/-AWS-orange?logo=amazon-aws&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Docker-blue?logo=docker&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Linux-black?logo=linux&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Kubernetes-blueviolet?logo=kubernetes&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Python-blue?logo=python&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&style=for-the-badge&logoColor=black" />
+  <img src="https://img.shields.io/badge/-React-blue?logo=react&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Google%20Cloud-red?logo=google-cloud&style=for-the-badge&logoColor=white" />
+</div>
+
+---
+
+<summary><h2><img src="https://media.giphy.com/media/JRsBkw0LUTUMff8dmw/giphy.gif" width="28"> GitHub Stats</h2></summary>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadJahanzeb&show_icons=true&theme=radical" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadJahanzeb&layout=compact&theme=radical" width="400"/>
+</p>
+
+---
+
+<summary><h2><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="28"> Connect with Me</h2></summary>
+
+<p align="center">
+  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jhanzaib-memon-9905a21a7)
+  [<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:your-email@example.com)
+</p>
+
+_Last Edited on: 4th Nov 2024_
