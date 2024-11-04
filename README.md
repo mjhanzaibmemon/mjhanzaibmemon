@@ -1,6 +1,6 @@
 <h1 align="center">
   Hey there, I'm Muhammad Jahanzeb Memon!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
+  <img src="https://images.app.goo.gl/jnwWamoecawN4EiC6" width="35px">
 </h1>
 
 <p align="center">
