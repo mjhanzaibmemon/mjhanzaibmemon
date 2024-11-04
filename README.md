@@ -1,38 +1,38 @@
 <h1 align="center">
-  Hi there, I'm Muhammad Jahanzeb Memon!
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="35px">
+  Hey there, I'm Muhammad Jahanzeb Memon!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
 </h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MuhammadJahanzeb/MuhammadJahanzeb/main/coding.gif" width="50%" alt="Coding GIF"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="50%" alt="Coding GIF"/>
 </p>
-
-<summary><h2><img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="28"> About Me</h2></summary>
-
-- 🌍 Open-source contributor and DevOps enthusiast
-- 👨‍💻 Working on Web, Mobile, and Cloud Engineering
-- ☁️ Specializing in Cloud-Based Solutions and Modern Architectures
-- 💡 Love to create optimized and scalable tech stacks
-- 🔭 Modernizing application architectures
-- 🌱 Currently exploring Kubernetes and microservices
-- 💬 Reach out for discussions on software development and cloud engineering
 
 ---
 
-<summary><h2><img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="28"> My Work</h2></summary>
+<h2 align="center"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> DevOps Engineer</h2>
+
+- 🌍 Passionate about Open Source Contributions
+- 🧑‍💻 Expertise in Web, Mobile, and Cloud Engineering
+- ☁️ Specialized in Cloud-Based and Scalable Architectures
+- 💡 Enjoy Over-Engineering and Optimizing Tech Stacks
+- 🔧 Currently enhancing skills in Kubernetes and containerization
+- 💬 Let's talk about Software Development, Cloud Engineering, or anything tech!
+
+---
+
+<h2 align="center"><img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="28"> What I Do</h2>
 
 <p align="center">
-  <img src="https://github.com/MuhammadJahanzeb/MuhammadJahanzeb/raw/main/my_work.png" alt="My Work" height="200"/>
+  <img src="https://raw.githubusercontent.com/MuhammadJahanzeb/MuhammadJahanzeb/main/workflow.png" alt="Workflow" height="200"/>
 </p>
 
 ---
 
-<summary><h2><img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="28"> My Tools & Technologies</h2></summary>
+<h2 align="center"><img src="https://media.giphy.com/media/1yk0v5iwxzUotzsyES/giphy.gif" width="28"> My Tools & Technologies</h2>
 
 <div align="center">
   <img src="https://img.shields.io/badge/-AWS-orange?logo=amazon-aws&style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/-Docker-blue?logo=docker&style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Linux-black?logo=linux&style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/-Kubernetes-blueviolet?logo=kubernetes&style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/-Python-blue?logo=python&style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&style=for-the-badge&logoColor=black" />
@@ -42,7 +42,7 @@
 
 ---
 
-<summary><h2><img src="https://media.giphy.com/media/JRsBkw0LUTUMff8dmw/giphy.gif" width="28"> GitHub Stats</h2></summary>
+<h2 align="center"><img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="28"> GitHub Stats</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MuhammadJahanzeb&show_icons=true&theme=radical" width="400"/>
@@ -51,11 +51,15 @@
 
 ---
 
-<summary><h2><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="28"> Connect with Me</h2></summary>
+<h2 align="center"><img src="https://media.giphy.com/media/1AgViXhqL29LLd9KDZ/giphy.gif" width="28"> Connect with Me</h2>
 
 <p align="center">
-  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jhanzaib-memon-9905a21a7)
-  [<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:your-email@example.com)
+  <a href="https://www.linkedin.com/in/jhanzaib-memon-9905a21a7" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:your-email@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 _Last Edited on: 4th Nov 2024_
